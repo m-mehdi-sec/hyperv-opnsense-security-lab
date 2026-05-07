@@ -189,7 +189,7 @@ hyperv-opnsense-security-lab/
 ```
 
 📄 Detailed technical documentation:  
-👉 docs/lab-documentation.md
+[Lab Documentation](docs/lab-documentation.md)
 
 ---
 
